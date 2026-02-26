@@ -23,7 +23,7 @@ If you'd rather build Miracle Engine yourself, please refer to our [build manual
 ## Examples
 
 ![Miracle engine](docs/images/samples/example_miracle_editor_01.png)
-![Wave works](docs/images/samples/eexample_nvidia_wave_works_01.jpg)
+![Wave works](docs/images/samples/example_nvidia_wave_works_01.jpg)
 
 ## Features
 
